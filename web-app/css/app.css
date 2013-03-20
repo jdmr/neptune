@@ -1,0 +1,89 @@
+/* User css */
+@import url(http://fonts.googleapis.com/css?family=Pinyon+Script);
+
+body {
+    margin-top: 150px;
+    background: rgb(28, 4, 23) url('/images/bg.jpg') no-repeat center top;
+    font-family: Times, 'Times New Roman', serif;
+    color: rgb(207, 199, 194);
+}
+
+body > #page > .navbar > .navbar-inner {
+    background: #2D2525 none;
+    border-width: 0;
+    margin-top: 20px;
+}
+
+.goldbox {
+    border: 1px solid rgba(93, 75, 43, 0.760784);
+    border-radius: 0;
+    background-color: rgba(0, 0, 0, 0.74902);
+    box-shadow: rgba(0, 0, 0, 0.6) 0px 1px 4px 0px;
+}
+
+.inner-goldbox {
+    margin: 20px 10px;
+}
+
+.centered {
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #c1b297;
+    font-weight: normal;
+    text-align: center;
+}
+
+hr {
+    border-top: 0;
+    border-bottom: 1px solid #5d4b2b;
+    margin: 10px;
+}
+
+.standout {
+    font-weight: bold;
+    color: rgb(245, 232, 184);
+}
+
+.inner-goldbox > p {
+    padding: 0 30px;
+}
+
+.welcome {
+    margin-top: 150px;
+}
+
+.navbar .brand {
+    padding: 0;
+}
+
+a {
+    color: rgb(193, 178, 151);
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.footer {
+    background: #2D2525 none;
+    border-width: 0;
+    margin-top: 30px;
+}
+
+.rsvp {
+    font-family: 'Pinyon Script', cursive;
+    font-size: 1.5em;
+    padding-left: 10px;
+}
+
+.second-row {
+    margin-top: 50px;
+}
+
+.linkbox {
+    text-align: center;
+    padding: 10px 0;
+}
