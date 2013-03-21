@@ -31,7 +31,7 @@
                     </div>
                     <div class="row-fluid" style="margin-top:10px;">
                         <div class="span6 goldbox linkbox">
-                            <a href="#">Create a RSVP</a>
+                            <a href="${createLink(controller:'event', action:'create')}">Create a RSVP</a>
                         </div>
                         <div class="span6 goldbox linkbox">
                             <a href="#">Change a RSVP</a>
@@ -51,7 +51,7 @@
                     <p>Get your own private access to your event</p>
                     <p>View and Print your RSVP's</p>
                     <p>Exclusive, member only pre and post event gallery</p>
-                    <p>Custom Event Page!</p>
+                    <p>Custom neptune.Event Page!</p>
                     <p> Regular $5.99 - FREE to the first 20 Subscriptions</p>
                 </div>
             </div>

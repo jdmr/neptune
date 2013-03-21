@@ -25,7 +25,7 @@
                 <div class="container">
                     <div class="row goldbox">
                         <div class="span12">
-                            <a class="brand" href="#"><img src="${resource(dir: "images", file: "logo3.png")}" alt="myRSVPlease.com"/></a>
+                            <a class="brand" href="${createLink(uri:'/')}"><img src="${resource(dir: "images", file: "logo3.png")}" alt="myRSVPlease.com"/></a>
                             <p class="pull-right" style="padding-top:38px; padding-right: 20px;"><a href="#">CONTACT</a></p>
                         </div>
                     </div>

@@ -106,7 +106,7 @@
     <p>
         <span class="font_8">​</span></p>
     <p>
-        <span class="font_8">Custom Event Page!</span></p>
+        <span class="font_8">Custom neptune.Event Page!</span></p>
     <p>
         <span class="font_8">​</span></p>
     <p>
